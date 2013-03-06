@@ -1,6 +1,5 @@
 KVC - Key Value Coding for Erlang data structures
 =================================================
-
 <bob@redivi.com>
 
 Overview:
